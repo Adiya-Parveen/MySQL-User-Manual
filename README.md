@@ -17,7 +17,5 @@ FOREIGN KEY.
  | ID | Book Name | Author's Name |
  ---|---|---
  | 1 | A Thousand Splendid Suns | Khaled Hosseini |
- ---|---|---
  | 2 | 1984 | George Orwell |
- ---|---|---
  | 3 | Start With Why | Simon Sinek |
