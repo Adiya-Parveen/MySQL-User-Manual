@@ -24,8 +24,6 @@ FOREIGN KEY.
 | 2 | 1984 | 3 |
 | 3 | Start With Why | 1 |
 
-</td></td>
-<tr><td>
 
 | Author's ID | Author's Name | Books |
 |---|---|---|---|
@@ -33,6 +31,7 @@ FOREIGN KEY.
 | 2 | Khaled Hosseini | 1, 45, 46 |
 | 3 | George Orwell | 2, 10 |
 
-</td></tr> </table>
+</td></tr>
+</table>
  
  
