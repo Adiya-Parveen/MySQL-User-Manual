@@ -14,8 +14,6 @@ can establish relationships between data points by taking the unique id from one
 and storing it on different row in a different table in a special column known as a 
 FOREIGN KEY.
 
-  
-
  | Book's ID | Book's Name | Author's Name |
  ---|---|---
  | 1 | A Thousand Splendid Suns | 2 |
@@ -28,4 +26,6 @@ FOREIGN KEY.
  | 2 | Khaled Hosseini| 1, 45, 46 |
  | 3 | George Orwell | 2, 10 |
  
+Here, in the above example, you can see how Book's ID and Author's ID are used as PRIMARY KEY 
+and FOREIGN KEY.
  
