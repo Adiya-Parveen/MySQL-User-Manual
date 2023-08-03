@@ -18,8 +18,8 @@ FOREIGN KEY.
 
  | Book's ID | Book's Name | Author's Name |
  ---|---|---
- | 1 | A Thousand Splendid Suns | 1 |
- | 2 | 1984 | 2 |
+ | 1 | A Thousand Splendid Suns | 2 |
+ | 2 | 1984 | 3 |
  | 3 | Start With Why | 1 |
  
  | Author's ID | Author's Name |  Books |
