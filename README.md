@@ -14,6 +14,10 @@ can establish relationships between data points by taking the unique id from one
 and storing it on different row in a different table in a special column known as a 
 FOREIGN KEY.
 
- | col 1 | col 2 | col 3 |
+ | ID | Book Name | Author's Name |
  ---|---|---
- | text 1 | text 2 | text 3 |
+ | 1 | A Thousand Splendid Suns | Khaled Hosseini |
+ ---|---|---
+ | 2 | 1984 | George Orwell |
+ ---|---|---
+ | 3 | Start With Why | Simon Sinek |
