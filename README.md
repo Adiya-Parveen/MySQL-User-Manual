@@ -24,7 +24,7 @@ FOREIGN KEY.
 | 2 | 1984 | 3 |
 | 3 | Start With Why | 1 |
 
-</td><td>
+</td><td><tr>
 
 | Author's ID | Author's Name | Books |
 |---|---|---|---|
