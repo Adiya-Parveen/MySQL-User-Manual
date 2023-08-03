@@ -13,3 +13,7 @@ individual record or data point with its own unique id known as PRIMARY KEY we
 can establish relationships between data points by taking the unique id from one row 
 and storing it on different row in a different table in a special column known as a 
 FOREIGN KEY.
+
+ | col 1 | col 2 | col 3 |
+ ---|---|---
+ | text 1 | text 2 | text 3 |
