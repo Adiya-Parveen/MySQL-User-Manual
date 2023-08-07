@@ -27,5 +27,9 @@ FOREIGN KEY.
  | 3 | George Orwell | 2, 10 |
  
 Here, in the above example, you can see how Book's ID and Author's ID are used as PRIMARY KEY 
-and FOREIGN KEY.
+and FOREIGN KEY. What this tables shows us that each book have one author, but one author can
+write multiple books. What we have done here is structured our data in its smallest normal form
+to eliminate duplication and redundancy. Now, the role of SQL is not not only to read, create,
+update, and delete data but also to join data together based on the relationships embedded within
+it. 
  
