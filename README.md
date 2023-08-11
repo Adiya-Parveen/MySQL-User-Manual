@@ -1,7 +1,8 @@
-#MySQL-User-Manual
+# MySQL-User-Manual
 
-##Concept 
-##Summary 
+## Concept 
+
+### Summary 
 Structured Query Language (SQL) is a standardized tool for communicating with relational 
 databases like MySQL, Microsoft SQL Server, and Oracle. It originated in the 1970s to manage 
 data in IBM's system database and was formalized by 1986. In SQL databases, data is organized 
@@ -45,9 +46,9 @@ to eliminate duplication and redundancy. Now, the role of SQL is not not only to
 update, and delete data but also to join data together based on the relationships embedded within
 it. 
 
-##Task 
+## Task 
 
-###Summary
-###Prerequisite
-###Steps
-###Result
+### Summary
+### Prerequisite
+### Steps
+### Result
